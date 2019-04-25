@@ -1,6 +1,5 @@
-// BOJ.cpp: дэ╪ж юю©К га╥н╠в╥╔юг аЬюта║ю╩ а╓юггу╢о╢ы.
+// BOJ.cpp: Л╫≤Л├■ Л²▒Л ╘ М■└К║°Й╥╦К·╗Л²≤ Л╖└Л·┘Л═░Л²└ Л═∙Л²≤М∙╘К▀┬К▀╓.
 //
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 #include <list>
