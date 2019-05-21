@@ -2,7 +2,7 @@
 ProblemSolvin, LANGUAGE PROFICIENCY...
 
 2019/04/25
-----------
+==========
 > BOJ_1406 에디터 (링크드 리스트) 
 https://www.acmicpc.net/problem/1406
 
