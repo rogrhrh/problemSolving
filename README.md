@@ -1,5 +1,5 @@
-# problemSolving
-BOJ, Programmers, Etc
+# problemSolving 
+ProblemSolvin, LANGUAGE PROFICIENCY...
 
 2019/04/25
 ----------
