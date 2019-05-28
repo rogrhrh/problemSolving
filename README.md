@@ -38,3 +38,7 @@
 2019/05/25
 ----------
 > uploaded past learn record
+
+2019/05/28
+----------
+> upload chaptor10 class
