@@ -1,4 +1,4 @@
-chapter 10
+# chapter 10
 
 > ### OOP의 중요 기능들
 
