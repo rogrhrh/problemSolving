@@ -1,5 +1,6 @@
-# problemSolving 
-ProblemSolvin, LANGUAGE PROFICIENCY...
+﻿# problemSolving
+
+*ProblemSolving*
 
 2019/04/25
 ----------
@@ -24,3 +25,15 @@ ProblemSolvin, LANGUAGE PROFICIENCY...
 ----------
 > [HR_FindMergePoint 두 리스트의 병합지점 찾기](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) (링크드 리스트) 
 
+2019/05/25
+----------
+> [BOJ_1929 소수구하기](https://www.acmicpc.net/problem/1929) (에라토스테네스의 체) 
+> [BOJ_2839 설탕배달](https://www.acmicpc.net/problem/2839) (사칙연산) 
+
+---
+
+*C++ 기초플러스 내용정리*
+
+2019/05/25
+----------
+> uploaded past learn record
