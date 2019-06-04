@@ -32,6 +32,9 @@
 
 > [BOJ_2839 설탕배달](https://www.acmicpc.net/problem/2839) (사칙연산) 
 
+2019/06/04
+----------
+> [HR_Forimg_magic_square 마방진 계산하기](https://www.hackerrank.com/challenges/magic-square-forming/problem) (마방진)
 ---
 
 
@@ -44,3 +47,7 @@
 2019/05/28
 ----------
 > upload chaptor10 class
+
+2019/06/04
+----------
+> upload chaptor6 class
