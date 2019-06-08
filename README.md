@@ -51,3 +51,8 @@
 2019/06/04
 ----------
 > upload chaptor6 class
+
+2019/06/08
+----------
+> upload chaptor8, chaptor12 class
+
