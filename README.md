@@ -35,6 +35,11 @@
 2019/06/04
 ----------
 > [HR_Forimg_magic_square 마방진 계산하기](https://www.hackerrank.com/challenges/magic-square-forming/problem) (마방진)
+
+2019/06/13
+----------
+> [HR_dynamic_array 점수판오르기](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) (배열)
+
 ---
 
 
