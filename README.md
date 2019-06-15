@@ -61,3 +61,10 @@
 ----------
 > upload chaptor8, chaptor12 class
 
+2019/06/14
+----------
+> update chaptor11
+
+2019/06/15
+----------
+> update chaptor12, class_dynamic_memory
