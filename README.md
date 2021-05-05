@@ -44,6 +44,9 @@
 ----------
 > [HR_Roads_Libraris 도서관,다리 재건하기](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true) (dfs)
 
+2021/05/05
+----------
+> [BOJ_2606 바이러스](https://www.acmicpc.net/problem/2606) (dfs, bfs)
 ---
 
 
